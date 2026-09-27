@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WatchBridge</string>
+    <string name="notification_channel_name">WatchBridge BLE</string>
+    <string name="notification_foreground_text">WatchBridge attivo</string>
+</resources>

@@ -1,0 +1,33 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+.build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Android
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# macOS
+.DS_Store
+*.swp
+
+# Keys / secrets
+*.p12
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+
+# Cursor AI
+.cursor/
